@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shubham-Upadhyay17
 - 👀 I’m interested in learning and exploring things
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Data Structures
+-     Also I've explored some fields of Web Development. 
 - 📫 E-mail id: shubham.upadhyay1912@gmail.com
 
 <!---
