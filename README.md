@@ -31,11 +31,15 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Upadhyay17&show_icons=true&theme=radical" alt="Shubham's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Upadhyay17&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Upadhyay17&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Upadhyay17&theme=radical" alt="Contribution Streak"/>
 </p>
 
 ---
@@ -47,6 +51,14 @@ Here are some of the projects I'm proud of:
 - 🔊 [SonicScript](https://github.com/Shubham-Upadhyay17/SonicScript): Real-time audio transcription tool using Spring Boot and Whisper API
 - 🧠 [MindMendor](https://github.com/Shubham-Upadhyay17/MindMendor): A mental health prediction web app using NLP and ML
 - 💬 Chat App (WIP): Real-time WebSocket-based chat application built using Spring Boot
+
+---
+
+## 📈 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-Upadhyay17&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
 ---
 
